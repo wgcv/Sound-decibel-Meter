@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
     FirebaseFirestore db = FirebaseFirestore.getInstance();
 
     public void addTodb(Map<String, Object> data, String name ){
-        db.collection("MyGym").document(name)
+        db.collection("database").document(name)
                 .set(data)
                 .addOnSuccessListener(new OnSuccessListener<Void>() {
                     @Override
