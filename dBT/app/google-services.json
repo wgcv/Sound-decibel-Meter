@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "625374012132",
+    "firebase_url": "https://dbtapp-43e8b.firebaseio.com",
+    "project_id": "dbtapp-43e8b",
+    "storage_bucket": "dbtapp-43e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625374012132:android:f49c6af5ced67125",
+        "android_client_info": {
+          "package_name": "me.wgcv.dbt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625374012132-a42pg5mdbd4r8k6912g9oqbh8mvc1gbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsOjJs2JkhEagDFqP3xbJUo2m5duqN7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625374012132-a42pg5mdbd4r8k6912g9oqbh8mvc1gbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
